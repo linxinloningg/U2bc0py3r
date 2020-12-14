@@ -1,0 +1,21 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: movedisk - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Release/movedisk.res" /d "NDEBUG" /d "_AFXDLL" "C:\Users\Administrator\Desktop\movedisk\movedisk.rc"" 
+Creating command line "link.exe /nologo /subsystem:windows /incremental:no /pdb:"Release/movedisk.pdb" /machine:I386 /out:"Release/movedisk.exe"  .\Release\movedisk.obj .\Release\movediskDlg.obj .\Release\StdAfx.obj .\Release\movedisk.res "
+<h3>Output Window</h3>
+Compiling resources...
+Linking...
+
+
+
+<h3>Results</h3>
+movedisk.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
